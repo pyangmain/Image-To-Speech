@@ -1,0 +1,5 @@
+azure_storage==0.37.0
+ffmpeg_python==0.2.0
+moviepy==1.0.3
+Pillow==11.0.0
+python-dotenv==1.0.1
