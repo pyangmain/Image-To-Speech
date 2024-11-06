@@ -40,7 +40,7 @@ except KeyError:
     exit()
 
 # Handle binarization before uploading
-img_url = 'https://files.catbox.moe/1a1ku0.jpg'
+img_url = 'https://files.catbox.moe/1a1ku0.jpg' 
 
 # NOTE, you should probably binarize the image before using ocr services,
 # The textbook here has thin pages, and the OCR ocassionally picks up characters on the other page
